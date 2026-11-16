@@ -1,0 +1,264 @@
+    1  mkdir lab_3
+    2  cd lab_3
+    3  sudo apt-get update
+    4  cd ..
+    5  cd lab_3
+    6  sudo apt-get install git make gcc qemu-system -y
+    7  git clone https://github.com/mit-pdos/xv6-public.git
+    8  cd xv6-public
+    9  sudo apt-get install -y git build-essential gdb qemu-system-misc
+   10  sudo apt-get install -y gcc-riscv64-unknown-elf
+   11  make qemu
+   12  git clone https://github.com/mit-pdos/xv6-riscv.git
+   13  cd `
+   14  cd ~
+   15  git clone https://github.com/mit-pdos/xv6-riscv.git
+   16  cd xv6-riscv
+   17  make qemu
+   18  nano Makefile
+   19  nano proc.h
+   20  nano kernel/proc.c
+   21  cd xv6-riscv
+   22  cd ~
+   23  cd xv6-riscv
+   24  nano kernel/proc.c
+   25  nano kernel/proc.h
+   26  nano kernel/trap.c
+   27  make qemu
+   28  exit
+   29  wsl -l -v
+   30  sudo apt-get update
+   31  cd prash
+   32  cd pras
+   33  sudo apt-get update
+   34  g++ deci2bin.cpp
+   35  ./a.out
+   36  g++ deci2bin.cpp
+   37  ./a.out
+   38  g++ deci2bin.cpp
+   39  ./a.out
+   40  g++ cp.cpp
+   41  ./a.out
+   42  g++ cp.cpp
+   43  ./a.out
+   44  g++ deci2bin.cpp
+   45  ./a.out
+   46  g++ deci2bin.cpp
+   47  ./a.out
+   48  g++ deci2bin.cpp
+   49  ./a.out
+   50  g++ deci2bin.cpp
+   51  ./a.out
+   52  g++ deci2bin.cpp
+   53  ./a.out
+   54  sudo passwd root
+   55  sudo apt-get update
+   56  ubuntu config --default-user root
+   57  wsl -L
+   58  sudo apt install wsl
+   59  sudo apt-get update
+   60  sudo apt-get install git build-essential gdb-multiarch qemu-system-misc gcc-riscv64-unknown-elf
+   61  git clone https://github.com/mit-pdos/xv6-riscv.git
+   62  cd xv6-riscv
+   63  make qemu
+   64  ls
+   65  cd kernel
+   66  nano proc.h
+   67  nano proc.c
+   68  nano syscall.h
+   69  nano sysproc.c
+   70  nano syscall.c
+   71  nano proc.c
+   72  nano trap.c
+   73  cd ..
+   74  nano srtftest.c
+   75  nano Makefile
+   76  make qemu
+   77  cd kernel
+   78  nano trap.c
+   79  cd ..
+   80  make qemu
+   81  cd ..
+   82  cd ~/xv6-riscv
+   83  git restore .
+   84  cd kernel
+   85  nano proc.h
+   86  nano syscall.h
+   87  nano sysproc.c
+   88  nano syscall.c
+   89  cd ..
+   90  cd user
+   91  nano usys.pl
+   92  nano user.h
+   93  cd ..
+   94  make clean
+   95  make qemu
+   96  cd kernel
+   97  make qemu
+   98  cd ..
+   99  make qemu
+  100  cd "c programming"
+  101  g++ cp.cpp
+  102  ./a.out
+  103  cd DSA
+  104  code .
+  105  exit
+  106  copilot
+  107  exit
+  108  copilot
+  109  g++ cp.cpp
+  110  ./a.out
+  111  g++ cp.cpp
+  112  ./a.out
+  113  g++ cp.cpp
+  114  ./a.exe
+  115  g++ cp.cpp
+  116  ./a.exe
+  117  g++ cp.cpp
+  118  ./a.exe
+  119  g++ cp.cpp
+  120  ./a.exe
+  121  g++ cp.cpp
+  122  ./a.exe
+  123  g++ cp.cpp
+  124  ./a.exe
+  125  g++ cp.cpp
+  126  ./a.exe
+  127  g++ cp.cpp
+  128  ./a.exe
+  129  git clone https://github.com/Shaan001333/2402MC08_asg05_MA3105.git
+  130  cd assignment_05_2402mc05/
+  131  git init
+  132  git add
+  133  git add .
+  134  git commit -m "first commit"
+  135  git remote add origin https://github.com/Prashant-create02/assignment_05_2402mc05.git
+  136  git add .
+  137  git commit -m "first commit"
+  138  git config --global user.email "prashant16102021@gmail.com
+  139  git config --global user.name "Prashant-create02
+  140  git remote add origin https://github.com/Prashant-create02/assignment_05_2402mc05.git
+  141  git add .
+  142  git commit -m "first commit"
+  143  git init
+  144  git add .
+  145  git commit -m "first comment"
+  146  git config --global user.name "Prashant-create02"
+  147  git config --global user.email "prashant16102021@gmail.com"
+  148  git config --global user.name
+  149  git config --global user.email
+  150  git commit -m "Initial commit"
+  151  git branch -M main
+  152  git remote add origin https://github.com/Prashant-create02/assignment_05_2402mc05.git
+  153  git push -u origin main
+  154  git remote -v
+  155  git push -u origin main
+  156  git remote add origin https://github.com/Prashant-create02/assignment_05_2402mc05.git
+  157  git branch -M main
+  158  git push -u origin main
+  159  g++ cp.cpp
+  160  ./a.exe
+  161  ./a.out
+  162  ./a.exe
+  163  g++ cp.cpp
+  164  ./a.out
+  165  g++ cp.cpp
+  166  ./a.out
+  167  git clone http://github.com/mit-pdos/xv6-public xv6-clean
+  168  cp -la ~/lab
+  169  cp --help
+  170  cp -la ~/exam
+  171  cp -r xv6-clean lab
+  172  cp -la ~/lab
+  173  ls -la ~/lab
+  174  ls
+  175  cp -r xv6-clean exam
+  176  ls -la ~/exam
+  177  git clone http://github.com/Shaan001333/2402MC08_asg_6_MA3105 ref
+  178  cd ~
+  179  git clone http://github.com/mit-pdos/xv6-public xv6-clean
+  180  cp -r xv6-clean exam
+  181  ls -la ~/exam
+  182  git clone http://github.com/Shaan001333/2402MC08_asg_06_MA3105 ref
+  183  ls -la ~/ref
+  184  ls -la ~/ref/q4
+  185  cd ~/exam
+  186  cp ~/ref/q4/defs.h . 2>/dev/null
+  187  cp ~/ref/q4/memlayout.h . 2>/dev/null
+  188  cp ~/ref/q4/proc.c . 2>/dev/null
+  189  cp ~/ref/q4/syncdeadlock.c . 2>/dev/null
+  190  cp ~/ref/q4/syscall.c . 2>/dev/null
+  191  cp ~/ref/q4/syscall.h . 2>/dev/null
+  192  cp ~/ref/q4/sysproc.c . 2>/dev/null
+  193  cp ~/ref/q4/user.h . 2>/dev/null
+  194  cp ~/ref/q4/usys.S . 2>/dev/null
+  195  cp ~/ref/q4/vm.c . 2>/dev/null
+  196  cp ~/ref/q4/Makefile . 2>/dev/null
+  197  make clean
+  198  make qemu-nox
+  199  nano proc.c
+  200  nano Makefile
+  201  nano syscall.c
+  202  ls -la exam
+  203  ls -la ~/exam
+  204  cd ~
+  205  ls -la ~/ref
+  206  less ~/ref/q4/README.md
+  207  history
+  208  git clone http://github.com/mit-pdos/xv6-public xv6-clean
+  209  cp -r xv6-clean exam
+  210  ls -la ~/exam
+  211  git clone http://github.com/Shaan001333/2402MC08_asg_06_MA3105 ref
+  212  ls -la ~/ref
+  213  ls -la ~/ref/q4
+  214  cd ~/exam
+  215  cp ~/ref/q4/def.h . 2>/dev/null
+  216  cp ~/ref/q4/memlayout.h . 2>/dev/null
+  217  cp ~/ref/q4/proc.c . 2>/dev/null
+  218  cp ~/ref/q4/syncdeadlock.c . 2>/dev/null
+  219  cp ~/ref/q4/syscall.c . 2>/dev/null
+  220  cp ~/ref/q4/syscall.h . 2>/dev/null
+  221  cp ~/ref/q4/sysproc.c . 2>/dev/null
+  222  cp ~/ref/q4/user.h . 2>/dev/null
+  223  cp ~/ref/q4/usys.S . 2>/dev/null
+  224  cp ~/ref/q4/vm.c . 2>/dev/null
+  225  cp ~/ref/q4/Makefile . 2>/dev/null
+  226  make clean
+  227  make qumu-nox
+  228  make qemu-nox
+  229  cat /et/shells
+  230  vi first
+  231  chmod +x vi fisrt
+  232  vi first
+  233  pwd
+  234  nano simple_int
+  235  chmod +x simple_int
+  236  ./simple_int.sh 1000 5 2
+  237  mv simple_int simple_int.sh
+  238  chmod +x simple_int.sh
+  239  ./simple_int.sh 1000 5 2
+  240  nano simple_int.sh
+  241  chmod +x simple_int.sh
+  242  ./simple_int.sh 1000 5 2
+  243  nano year_class.sh
+  244  chmod +x year_class.sh
+  245  ./year_class.sh
+  246  nano year_class.sh
+  247  chmod +x year_class.sh
+  248  ./year_class.sh
+  249  nano fibo.sh
+  250  chmod +x fibo.sh
+  251  ./fibo.sh
+  252  nano fibo.sh
+  253  chmod +x fibo.sh
+  254  nano fibo.sh
+  255  chmod +x fibo.sh
+  256  ./fibo.sh
+  257  nano palin_prime.sh
+  258  chmod +x palin_prime.sh
+  259  ./palin_prime.sh
+  260  nano palin_prime.sh
+  261  chmod +x palin_prime.sh
+  262  ./palin_prime.sh
+  263  script -a session_log.txt
+  264  history > history.txt

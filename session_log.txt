@@ -1,0 +1,34 @@
+Script started on 2026-11-16 13:53:42+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="76" LINES="43"]
+[?2004h]0;pras@Prashant: /mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[01;32mpras@Prashant[00m:[01;34m/mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[00m$ vi first[C[C[C[C[C[C[9@chmod +x vi fisr[C[C[C[C[C[C[C[9Pvi firs[C[C[C[C[C[C[Ccat /et/shells[C[C[C[C[C[C[1Pmake qemu-noxu[C[C[C[C[C[C[3Pclean[C[C[C[C[C[Ccp ~/ref/q4/Makefile . 2>/dev/null[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pvm.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@Makefile[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmake clean[Kqumu-noxe[C[C[C[C[C[C[C[C[C[C[C[Ccat /et/shells[C[C[C[C[C[C[6Pvi first[C[C[C[C[C[C[9@chmod +x vi fisr[C[C[C[C[C[C[C[9Pvi firs[C[C[C[C[C[C[C[Kvi first[C[C[C[C[C[C[K./intere[K[K[K[K[K[Ksimple_int.sh
+[?2004lUsage: ./simple_int.sh Principal Rate Time
+[?2004h]0;pras@Prashant: /mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[01;32mpras@Prashant[00m:[01;34m/mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[00m$ ./simple_int.sh 1000 4 [K[K5 2
+[?2004lPrincipal = 1000
+Rate = 5
+Time = 2
+Simple Interest = 100.00
+Total Amount = 1100.00
+[?2004h]0;pras@Prashant: /mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[01;32mpras@Prashant[00m:[01;34m/mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[00m$ ./year_class.sh
+[?2004lEnter a year: 400   1200
+1200 is a leap year.
+Enter a number 56 7
+57 is Positive
+57 is even
+[?2004h]0;pras@Prashant: /mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[01;32mpras@Prashant[00m:[01;34m/mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[00m$ ./fibo.sh
+[?2004lEnter a number of terms: 7
+Fibonacci series
+0 1 1 2 3 5 8 Star pattern:
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+[?2004h]0;pras@Prashant: /mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[01;32mpras@Prashant[00m:[01;34m/mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[00m$ ./plai[K[Kin[K[K[Kalin_prime.sh
+[?2004lEnter a string or number: 6543
+6543 is not a palindrome
+6543 is not a prime number
+[?2004h]0;pras@Prashant: /mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[01;32mpras@Prashant[00m:[01;34m/mnt/c/Users/prash/OneDrive/Desktop/sem-5/OS/assigment_01_2402mc05[00m$ exit
+[?2004lexit
+
+Script done on 2026-11-16 13:55:49+00:00 [COMMAND_EXIT_CODE="0"]
